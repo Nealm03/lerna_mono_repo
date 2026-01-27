@@ -5,7 +5,7 @@
   "main": "src/index.ts",
   "dependencies": {
     "chalk": "4.1.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "moment": "2.29.1",
     "request": "2.88.2"
   },
